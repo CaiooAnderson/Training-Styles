@@ -192,8 +192,6 @@ header {
     transform: scale(1.05);
 }
 
-/* checkbox do dark/light mode */
-
 .switch {
     width: 80px;
     height: 40px;
